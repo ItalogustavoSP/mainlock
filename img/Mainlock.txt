@@ -1,0 +1,51 @@
+Lista de imagens (placeholders)
+
+Logo da empresa
+
+img-logo.png ?
+
+Exibição: cabeçalho
+
+Carrossel (público)
+
+img-visao.jpg → Visão ?
+
+img-missao.jpg → Missão ?
+
+img-objetivo.jpg → Objetivo ?
+
+Seção Sobre
+
+img-fundacao.jpg → Fundação da empresa ?
+
+img-equipe.jpg → Equipe especializada
+
+img-valores.jpg → Missão, Visão e Valores ?
+
+Seção Planos
+
+img-automovel.jpg → Seguro Automóvel
+
+img-residencial.jpg → Seguro Residencial
+
+img-vida.jpg → Seguro Vida
+
+Seção Clientes e Depoimentos
+
+img-cliente1.jpg → Cliente 1 / Depoimento
+
+img-cliente2.jpg → Cliente 2 / Depoimento
+
+img-cliente3.jpg → Cliente 3 / Depoimento
+
+Seção Parcerias
+
+img-parceiro1.png → Parceiro 1 ?
+
+img-parceiro2.png → Parceiro 2 ?
+
+img-parceiro3.png → Parceiro 3 ?
+
+Dashboard / Área privada
+
+img-apolice.jpg → Apólices (Automóvel e Residencial)
